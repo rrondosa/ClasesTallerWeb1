@@ -13,7 +13,7 @@ public class Modelo {
 	private String nombre;
 
 	public Modelo(String nombre) {
-	
+		super();
 		this.nombre = nombre;
 	}
 
